@@ -1,17 +1,14 @@
 ### Olá, querido(a) visitante! Tudo bem com você? Eu sou a Elizangela Student 👋
 
-***Você acaba de acessar o perfil de um ser humano apaixonada pela melhor obra de arte que Deus já criou: PESSOAS 👨‍👩‍👧‍👦
+***Você acaba de acessar o perfil de um ser humano apaixonada pela melhor obra de arte que Deus já criou: PESSOAS e por TECNOLOGIA 👩‍💻
 
 
-- 🌱 Estudando Full Stack
-
- - 😄 Pronouns: ela/dela
 
 
 <div align="center">
   <a href="https://github.com/ElizangelaStudent">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ElizangelaStudent&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElizangelaStudent&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ElizangelaStudent&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElizangelaStudent&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
  ### Tecnologias que uso no dia a dia
@@ -44,6 +41,4 @@
   
   
 
- ![Snake animation](https://github.com/elizangelastudent/elizangelastudent/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
