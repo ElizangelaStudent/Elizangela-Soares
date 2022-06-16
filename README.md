@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/elizangela-costa-72013192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
-  
-   ![Snake animation](https://github.com/elizangelastudent/elizangelastudent/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/elizangelastudent/elizangelastudent/blob/output/github-contribution-grid-snake.svg)
  
 </div>
