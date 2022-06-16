@@ -1,6 +1,6 @@
 ### Olá, querido(a) visitante! Tudo bem com você? Eu sou a Elizangela Student 👋
 
-***Você acaba de acessar o perfil de um ser humano apaixonada pela melhor obra de arte que Deus já criou: PESSOAS e por TECNOLOGIA 👩‍💻
+***Você acaba de acessar o perfil de um ser humano apaixonada pela melhor obra de arte que Deus já criou: PESSOAS 
 
 
 
