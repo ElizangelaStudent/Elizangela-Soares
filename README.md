@@ -2,7 +2,7 @@
 
 Você acaba de acessar o perfil de um ser humano apaixonada pela melhor obra de arte que Deus já criou: PESSOAS 
 
-E pela melhor criação do homem: TECNOLOGIA 👨‍💻
+E  apaixonada pela melhor criação do homem: TECNOLOGIA 👨‍💻
 
 
 
