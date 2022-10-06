@@ -1,11 +1,15 @@
-### Olá, querido(a) visitante! Tudo bem com você? Eu sou a Elizangela Student 👋
+## <p align="center"> Olá, querido(a) visitante! Tudo bem com você? Eu sou a Elizangela Student 👋
 
 Você acaba de acessar o perfil de um ser humano apaixonada pela melhor obra de arte que Deus já criou: PESSOAS 
 
 E  apaixonada pela melhor criação do homem: TECNOLOGIA 👨‍💻
 
+## <p align="center"> **Formação**
+- Graduada em Administração -Pitágoras
+- Especialização em Perícia e Auditória Ambiental -UNINTER
+- MBA em Logística e Engenharia de Produção - INEX
 
-
+# <p align="center"> 
 
 <div align="center">
   <a href="https://github.com/ElizangelaStudent">
