@@ -4,23 +4,22 @@ Você acaba de acessar o perfil de um ser humano apaixonada pela melhor obra de 
 
 E  apaixonada pela melhor criação do homem: TECNOLOGIA 👨‍💻
 
-## <p align="center"> **Formação**
+## **Formação**
 - Graduada em Administração -Pitágoras
 - Especialização em Perícia e Auditória Ambiental -UNINTER
 - MBA em Logística e Engenharia de Produção - INEX
 
-# <p align="center"> 
-
+</div>
+ 
+ ## Tecnologias que uso no dia a dia
+ 
+ </div>
 <div align="center">
   <a href="https://github.com/ElizangelaStudent">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ElizangelaStudent&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElizangelaStudent&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
- 
- ### Tecnologias que uso no dia a dia
- 
- </div>
- 
+
+</div> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Eli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eli-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -28,13 +27,8 @@ E  apaixonada pela melhor criação do homem: TECNOLOGIA 👨‍💻
   <img align="center" alt="Eli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-          
  
-</div>
-  
-  ##
- 
- ### Minhas redes
+ ## Minhas redes
  
 <div> 
  <a href="https://github.com/ElizangelaStudent/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
