@@ -8,6 +8,7 @@ E  apaixonada pela melhor criação do homem: TECNOLOGIA 💻
 - Graduada em Administração -Pitágoras
 - Especialização em Perícia e Auditória Ambiental -UNINTER
 - MBA em Logística e Engenharia de Produção - INEX
+- MBA em Investimento e Finanças Pessoais- ETEP(em andamento)
 - Técnica em Papel e Celulose- IFMA
 
 </div>
